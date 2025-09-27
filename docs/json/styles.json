@@ -24,11 +24,11 @@
     }
   },
   {
-    "icon": "https://replicate.delivery/xezq/5TvU6UC6wpqANNv0pET4iKGEYM2ggjeYtq9KU75c7Be1tZZVA/tmpshzdu2ni.jpeg",
+    "icon": "https://replicate.delivery/xezq/J0195YsCMOaUD5uITv6AkuqhfYln5yi5U18PjhbbLsbXFtsKA/tmp7cr0w46a.jpeg",
     "model": {
       "owner": "google",
       "name": "nano-banana",
-      "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that girl/guy hugging me. I want you to keep the same characteristics as the photo. make the two of them hug each other."
+      "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that girl/guy me. I want you to keep the same characteristics as the photo."
     }
   }
 ]
