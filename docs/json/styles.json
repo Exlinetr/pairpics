@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "https://replicate.delivery/xezq/0nt92gmQptZdO9vnwEeHMU61ySdG5IegecAdjReVp65DQdbVB/tmpar17ssaz.jpeg",
+    "model": {
+      "owner": "google",
+      "name": "nano-banana",
+      "prompt": "A candid photo of two people hugging each other and smiling happily, both facing the camera, in a cozy home environment, natural background with sheer curtains behind them, warm atmosphere, realistic photography, high detail, sharp focus  [PARAM:SIZE]"
+    }
+  },
+  {
+    "icon": "https://replicate.delivery/xezq/mbE0pfJqUtTfu0vp7gjG93nkNYNsy78a1onho9oos56fkTjqA/tmpgxxuv701.jpg",
+    "model": {
+      "owner": "google",
+      "name": "nano-banana",
+      "prompt": "have the people smile and take a selfie from a phone  [PARAM:SIZE]"
+    }
+  },
+  {
+    "icon": "https://replicate.delivery/xezq/a6l5tAXoacKiOlDrEjZoGgyjiySezdNZPVX0WaPUQHqcfXZVA/tmpkmfd4txg.jpeg",
+    "model": {
+      "owner": "google",
+      "name": "nano-banana",
+      "prompt": "A candid photo of two people in a garden party setting, giving a fun and playful pose while facing the camera, \ngreen grass under their feet, palm trees and plants visible in the background, warm evening light, realistic photography, high detail, sharp focus, vibrant tones Polaroid style photo, white border, vintage look, soft colors, slightly faded tones"
+    }
+  },
+  {
+    "icon": "https://replicate.delivery/xezq/5TvU6UC6wpqANNv0pET4iKGEYM2ggjeYtq9KU75c7Be1tZZVA/tmpshzdu2ni.jpeg",
+    "model": {
+      "owner": "google",
+      "name": "nano-banana",
+      "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that girl/guy hugging me. I want you to keep the same characteristics as the photo. make the two of them hug each other."
+    }
+  }
+]
