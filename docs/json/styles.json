@@ -1,13 +1,5 @@
 [
   {
-    "icon": "https://replicate.delivery/xezq/V5SSY0QbrA6hANs9Q30zncNNRbS1yMscSFZftItvlfva7ZZVA/tmp8cqhl_xr.jpeg",
-    "model": {
-      "owner": "google",
-      "name": "nano-banana",
-      "prompt": "A candid photo of two people hugging each other and smiling happily, both facing the camera, in a cozy home environment, natural background with sheer curtains behind them, warm atmosphere, realistic photography, high detail, sharp focus  [PARAM:SIZE]"
-    }
-  },
-  {
     "icon": "https://replicate.delivery/xezq/kz3lhSkzA9JuL1TxYLU1sdKzdetFrmBvx1GRKKDZWfjgCYZVA/tmp3y43ikca.jpeg",
     "model": {
       "owner": "google",
