@@ -2,25 +2,28 @@
   {
     "icon": "https://replicate.delivery/xezq/kz3lhSkzA9JuL1TxYLU1sdKzdetFrmBvx1GRKKDZWfjgCYZVA/tmp3y43ikca.jpeg",
     "model": {
+      "credits": 1,
       "owner": "google",
       "name": "nano-banana",
-      "prompt": "have the people smile and take a selfie from a phone  [PARAM:SIZE]"
+      "prompt": "Two people smiling and taking a friendly selfie together, standing side by side, casual and happy expression, natural lighting, high quality photo [PARAM:SIZE]"
     }
   },
   {
     "icon": "https://replicate.delivery/xezq/a6l5tAXoacKiOlDrEjZoGgyjiySezdNZPVX0WaPUQHqcfXZVA/tmpkmfd4txg.jpeg",
     "model": {
+      "credits": 1,
       "owner": "google",
       "name": "nano-banana",
-      "prompt": "A candid photo of two people in a garden party setting, giving a fun and playful pose while facing the camera, \ngreen grass under their feet, palm trees and plants visible in the background, warm evening light, realistic photography, high detail, sharp focus, vibrant tones Polaroid style photo, white border, vintage look, soft colors, slightly faded tones"
+      "prompt": "Two people standing together in a beautiful garden setting, both facing the camera with friendly smiles, green grass and plants in the background, warm natural lighting, professional photography style, high detail, sharp focus, vibrant colors"
     }
   },
   {
     "icon": "https://replicate.delivery/xezq/CzDuKCEfE7Q5K6Wbd7aoowe6ZRD7vAwXBe5b6L6Bpe0KgfKrC/tmpsqqovy7w.jpeg",
     "model": {
+      "credits": 1,
       "owner": "google",
       "name": "nano-banana",
-      "prompt": "Take a photo taken with a Polaroid camera. The photo should look like an ordinary photograph, without an explicit subject or property. The photo should have a slight blur and a consistent light source, like a flash from a dark room, scattered throughout the photo. Don't change the face. Change the background behind those two people with white curtains. With that girl/guy me. I want you to keep the same characteristics as the photo."
+      "prompt": "Two people in a clean, elegant setting with white background, standing together naturally, friendly and approachable expressions, soft natural lighting, professional portrait style, high quality photography"
     }
   }
 ]
